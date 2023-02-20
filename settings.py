@@ -2,6 +2,8 @@ class Settings:
     """A class to store all settings for Alien Invasion."""
 
     def __init__(self):
+        # Ship settings
+        self.ship_speed_factor = 1.5
 
         """Initialize the game's settings."""
         # Screen settings
