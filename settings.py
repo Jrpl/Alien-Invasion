@@ -10,6 +10,7 @@ class Settings:
         self.bullet_width = 3
         self.bullet_height = 15
         self.bullet_color = 5, 180, 12
+        self.bullet_limit = 3
 
         """Initialize the game's settings."""
         # Screen settings
